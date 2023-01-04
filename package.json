@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "lerna": "lerna",
+    "version": "lerna version",
+    "release": "lerna publish"
+  },
+  "private": true,
+  "devDependencies": {
+    "@nrwl/js": "^15.4.4",
+    "@nrwl/nx-cloud": "latest",
+    "lerna": "^6.3.0",
+    "nx": "15.4.4",
+    "prettier": "^2.6.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
