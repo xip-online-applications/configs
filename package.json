@@ -1,21 +1,27 @@
 {
   "name": "frontend",
-  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "lerna": "lerna",
     "version": "lerna version",
-    "release": "lerna publish"
+    "publish": "lerna publish"
   },
   "private": true,
   "devDependencies": {
+    "@nrwl/eslint-plugin-nx": "15.4.4",
     "@nrwl/js": "^15.4.4",
+    "@nrwl/linter": "15.4.4",
     "@nrwl/nx-cloud": "latest",
+    "@typescript-eslint/eslint-plugin": "^5.36.1",
+    "@typescript-eslint/parser": "^5.36.1",
+    "eslint": "~8.15.0",
+    "eslint-config-prettier": "8.1.0",
     "lerna": "^6.3.0",
     "nx": "15.4.4",
     "prettier": "^2.6.2"
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {}
 }
