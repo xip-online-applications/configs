@@ -1,0 +1,13 @@
+{
+  "name": "@xip-online-applications/browserslist-config",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/xip-online-applications/frontend.git",
+    "directory": "packages/browserslist-config"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "main": "./index.js"
+}
