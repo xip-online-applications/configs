@@ -2,7 +2,7 @@
 
 Company-wide [Browserslist](https://github.com/browserslist/browserslist) config.
 
-## 👨🏻‍💻 Usage
+## Usage
 
 Install
 
