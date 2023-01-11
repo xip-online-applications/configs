@@ -7,12 +7,17 @@
     "publish": "lerna publish"
   },
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "prettier": "@xip-online-applications/prettier-config",
   "devDependencies": {
     "@nrwl/eslint-plugin-nx": "15.4.4",
     "@nrwl/js": "^15.4.4",
     "@nrwl/linter": "15.4.4",
     "@nrwl/nx-cloud": "latest",
     "@xip-online-applications/eslint-config": "file:./packages/eslint-config",
+    "@xip-online-applications/prettier-config": "file:./packages/prettier-config",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "eslint": "~8.15.0",
@@ -21,8 +26,5 @@
     "nx": "15.4.4",
     "prettier": "^2.6.2"
   },
-  "workspaces": [
-    "packages/*"
-  ],
   "dependencies": {}
 }
