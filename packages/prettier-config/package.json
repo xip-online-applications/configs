@@ -1,0 +1,20 @@
+{
+  "name": "@xip-online-applications/prettier-config",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/xip-online-applications/frontend.git",
+    "directory": "packages/prettier-config"
+  },
+  "author": "XIP Online Applications <info@x-ip.nl>",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "prettier": "latest"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.2"
+  }
+}
