@@ -1,0 +1,24 @@
+{
+  "name": "@xip-online-applications/eslint-config",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/xip-online-applications/frontend.git",
+    "directory": "packages/eslint-config"
+  },
+  "author": "XIP Online Applications <info@x-ip.nl>",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "eslint-config-airbnb-base": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-prettier": "latest"
+  },
+  "peerDependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  }
+}

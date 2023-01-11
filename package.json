@@ -12,6 +12,7 @@
     "@nrwl/js": "^15.4.4",
     "@nrwl/linter": "15.4.4",
     "@nrwl/nx-cloud": "latest",
+    "@xip-online-applications/eslint-config": "file:./packages/eslint-config",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "eslint": "~8.15.0",
