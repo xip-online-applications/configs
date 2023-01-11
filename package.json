@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "configs",
   "license": "MIT",
   "scripts": {
     "lerna": "lerna",
