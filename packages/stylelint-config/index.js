@@ -88,7 +88,6 @@ module.exports = {
     ], // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/declaration-nested-properties/README.md
     'scss/function-color-relative': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/function-color-relative/README.md
     'scss/no-duplicate-mixins': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/no-duplicate-mixins/README.md
-    'scss/selector-nest-combinators': 'never', // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/selector-nest-combinators/README.md
     'scss/selector-no-redundant-nesting-selector': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/selector-no-redundant-nesting-selector/README.md
   },
 };

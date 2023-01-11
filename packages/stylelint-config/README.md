@@ -1,6 +1,6 @@
 # Stylelint Config
 
-## 👨🏻‍💻 Usage
+## Usage
 
 ### Install
 
@@ -34,33 +34,6 @@ Add the config to your `package.json`. Alternatively you can make a seperate con
 }
 ```
 
-## With Vue
+### Prettier
 
-You can use the [recommended Vue Stylelint config](https://github.com/ota-meshi/stylelint-config-recommended-vue) alongside our base config like this for Vue 3.
-
-```jsonc
-{
-  // ...
-  "stylelint": {
-    "extends": [
-      "@xip-online-applications/stylelint-config",
-      "stylelint-config-recommended-vue/scss"
-    ]
-  }
-}
-```
-
-### Modify script
-
-Add the vue file extension to your script so these files are linted as well.
-
-```jsonc
-{
-  // ...
-  "scripts": {
-    // ...
-    "lint:style": "stylelint 'YOUR_SOURCE_FOLDER/**/*.{css,scss,vue}'"
-    // ...
-  }
-}
-```
+This config uses Stylelint Prettier to not conflict with Prettier's config, so make sure you install XIPs Prettier config as well.
