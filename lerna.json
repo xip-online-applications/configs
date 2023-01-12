@@ -1,15 +1,13 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "packages": ["packages/**/*"],
+  "packages": ["packages/*"],
   "version": "independent",
   "npmClient": "npm",
   "useWorkspaces": true,
   "command": {
     "publish": {
-      "conventionalCommits": true,
-      "message": "chore(release): [skip ci] publish",
       "registry": "https://npm.pkg.github.com",
-      "allowBranch": "feature/setup"
+      "allowBranch": "feature/tla-2223/implement-coding-standards"
     }
   }
 }

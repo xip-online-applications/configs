@@ -6,10 +6,10 @@
     "url": "ssh://git@github.com/xip-online-applications/frontend.git",
     "directory": "packages/prettier-config"
   },
-  "author": "XIP Online Applications <info@x-ip.nl>",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
+  "author": "XIP Online Applications <info@x-ip.nl>",
   "main": "./index.js",
   "dependencies": {
     "prettier": "latest"

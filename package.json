@@ -6,9 +6,6 @@
     "node": ">=18.13.0 <19.0.0"
   },
   "scripts": {
-    "lerna": "lerna",
-    "version": "lerna version",
-    "publish": "lerna publish",
     "lint": "nx workspace-lint && nx run-many --target=lint --all --parallel"
   },
   "private": true,
@@ -27,7 +24,7 @@
     "@xip-online-applications/prettier-config": "file:./packages/prettier-config",
     "eslint": "~8.15.0",
     "eslint-config-prettier": "8.1.0",
-    "lerna": "^6.3.0",
+    "lerna": "^6.4.0",
     "nx": "15.4.4",
     "prettier": "^2.6.2"
   }
