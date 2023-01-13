@@ -1,5 +1,7 @@
 # Configs
 
+[![Publish](https://github.com/xip-online-applications/configs/actions/workflows/publish.yml/badge.svg)](https://github.com/xip-online-applications/configs/actions/workflows/publish.yml)
+
 This repository will house XIPs config files.
 
 ## How to release
