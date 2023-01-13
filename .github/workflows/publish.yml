@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches:
-      - feature/tla-2223/implement-coding-standards
+      - main
 
 permissions:
   contents: write
