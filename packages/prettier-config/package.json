@@ -1,14 +1,20 @@
 {
-  "name": "@xip-online-applications/browserslist-config",
+  "name": "@xip-online-applications/prettier-config",
   "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/xip-online-applications/frontend.git",
-    "directory": "packages/browserslist-config"
+    "directory": "packages/prettier-config"
   },
   "publishConfig": {
     "access": "public"
   },
   "author": "XIP Online Applications <info@x-ip.nl>",
-  "main": "./index.js"
+  "main": "./index.js",
+  "dependencies": {
+    "prettier": "latest"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.2"
+  }
 }

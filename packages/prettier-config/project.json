@@ -1,14 +1,14 @@
 {
-  "name": "browserslist-config",
+  "name": "prettier-config",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "packages/browserslist-config",
+  "sourceRoot": "packages/prettier-config",
   "projectType": "library",
   "targets": {
     "lint": {
       "executor": "@nrwl/linter:eslint",
       "outputs": ["{options.outputFile}"],
       "options": {
-        "lintFilePatterns": ["packages/browserslist-config/**/*.js"]
+        "lintFilePatterns": ["packages/prettier-config/**/*.js"]
       }
     }
   },

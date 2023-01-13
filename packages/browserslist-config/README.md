@@ -1,7 +1,20 @@
-# browserslist-config
+# Browserslist config
 
-This library was generated with [Nx](https://nx.dev).
+Company-wide [Browserslist](https://github.com/browserslist/browserslist) config.
 
-## Building
+## Usage
 
-Run `nx build browserslist-config` to build the library.
+Install
+
+```sh
+$ npm i -D @xip-online-applications/browserslist-config
+```
+
+and add it to your `package.json`
+
+```jsonc
+{
+  // ...
+  "browserslist": ["extends @xip-online-applications/browserslist-config"]
+}
+```
