@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/stylelint-config@0.2.0...@xip-online-applications/stylelint-config@0.3.0) (2023-01-27)
+
+### Features
+
+- **package:** set Stylelint SCSS rule "scss/declaration-nested-properties" to "never" ([1f6db45](https://github.com/xip-online-applications/frontend/commit/1f6db45e42d7024ae4611640226314ba9a664279))
+
 # [0.2.0](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/stylelint-config@0.1.0...@xip-online-applications/stylelint-config@0.2.0) (2023-01-26)
 
 ### Features
