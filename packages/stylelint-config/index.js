@@ -81,12 +81,7 @@ module.exports = {
     'scss/at-rule-conditional-no-parentheses': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/at-rule-conditional-no-parentheses/README.md
     'scss/at-rule-no-unknown': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/at-rule-no-unknown/README.md
     'scss/comment-no-loud': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/comment-no-loud/README.md
-    'scss/declaration-nested-properties': [
-      'always',
-      {
-        except: ['only-of-namespace'],
-      },
-    ], // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/declaration-nested-properties/README.md
+    'scss/declaration-nested-properties': 'never', // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/declaration-nested-properties/README.md
     'scss/function-color-relative': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/function-color-relative/README.md
     'scss/no-duplicate-mixins': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/no-duplicate-mixins/README.md
     'scss/selector-no-redundant-nesting-selector': true, // https://github.com/stylelint-scss/stylelint-scss/blob/master/src/rules/selector-no-redundant-nesting-selector/README.md
