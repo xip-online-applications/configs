@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches:
-      - main
+      - TLA-2334-switch-to-npm
 
 permissions:
   contents: write
@@ -40,5 +40,6 @@ jobs:
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > .npmrc
-          npx lerna publish --no-private --conventional-commits --yes --registry=https://npm.pkg.github.com/xip-online-applications
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_PUBLISH_TOKEN }}" >> .npmrc
+          echo "@xip-online-applications:registry=https://registry.npmjs.org/" >> .npmrc
+          npx lerna publish --no-private --conventional-commits --yes
