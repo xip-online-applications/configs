@@ -17,6 +17,8 @@ $ npm i -D @xip-online-applications/eslint-config
   // ...
   "eslintConfig": {
     "extends": "@xip-online-applications/eslint-config"
+    // TypeScript flavour
+    // "extends": "@xip-online-applications/eslint-config/typescript"
   }
 }
 ```
