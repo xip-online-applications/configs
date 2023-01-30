@@ -1,4 +1,10 @@
+const sharedExtends = require('./shared/extends');
+const sharedRules = require('./shared/rules');
+
 module.exports = {
   root: true,
-  extends: ['airbnb-base', 'plugin:prettier/recommended'],
+  extends: [...sharedExtends],
+  rules: {
+    ...sharedRules,
+  },
 };

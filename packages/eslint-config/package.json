@@ -13,11 +13,8 @@
   "author": "XIP Online Applications <info@x-ip.nl>",
   "main": "./index.js",
   "files": [
-    "index.js",
-    "typescript.js",
-    "README.md",
-    "CHANGELOG.md",
-    "LICENSE"
+    "shared",
+    "typescript.js"
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "latest",
