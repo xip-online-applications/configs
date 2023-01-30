@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.4](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.3.3...@xip-online-applications/prettier-config@0.3.4) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** add license field to packages ([ad876b5](https://github.com/xip-online-applications/configs/commit/ad876b5bd30e5c2c963028de6ab63351159222ae))
+
 ## [0.3.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.3.2...@xip-online-applications/prettier-config@0.3.3) (2023-01-30)
 
 ### Bug Fixes

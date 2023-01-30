@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.4](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.3...@xip-online-applications/stylelint-config@0.4.4) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** add license field to packages ([ad876b5](https://github.com/xip-online-applications/configs/commit/ad876b5bd30e5c2c963028de6ab63351159222ae))
+
 ## [0.4.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.2...@xip-online-applications/stylelint-config@0.4.3) (2023-01-30)
 
 ### Bug Fixes
