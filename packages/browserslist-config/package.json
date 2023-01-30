@@ -10,5 +10,11 @@
     "access": "public"
   },
   "author": "XIP Online Applications <info@x-ip.nl>",
-  "main": "./index.js"
+  "main": "./index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE.md"
+  ]
 }
