@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches:
-      - TLA-2334-switch-to-npm
+      - main
 
 permissions:
   contents: write
