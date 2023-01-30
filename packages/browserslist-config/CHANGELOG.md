@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/browserslist-config@0.2.0...@xip-online-applications/browserslist-config@0.2.1) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** don't use markdown for license file ([b855f41](https://github.com/xip-online-applications/frontend/commit/b855f41100d5748769b9996d6005e6dabbdc87db))
+
+# [0.2.0](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/browserslist-config@0.1.0...@xip-online-applications/browserslist-config@0.2.0) (2023-01-30)
+
+### Features
+
+- **package:** add files array so source files are not included in published package ([65c9e2c](https://github.com/xip-online-applications/frontend/commit/65c9e2c09a74bb3ca31c2ddb4b79120aa0470ac0))
+- **package:** add license ([138a3a8](https://github.com/xip-online-applications/frontend/commit/138a3a8c5b0ef44e9832e5abf071aa33e734ff21))
+
 # 0.1.0 (2023-01-13)
 
 ### Features

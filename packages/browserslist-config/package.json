@@ -1,6 +1,6 @@
 {
   "name": "@xip-online-applications/browserslist-config",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/xip-online-applications/frontend.git",
@@ -10,5 +10,11 @@
     "access": "public"
   },
   "author": "XIP Online Applications <info@x-ip.nl>",
-  "main": "./index.js"
+  "main": "./index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
 }

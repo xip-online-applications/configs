@@ -1,6 +1,6 @@
 {
   "name": "@xip-online-applications/eslint-config",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/xip-online-applications/frontend.git",
@@ -11,6 +11,13 @@
   },
   "author": "XIP Online Applications <info@x-ip.nl>",
   "main": "./index.js",
+  "files": [
+    "index.js",
+    "typescript.js",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
