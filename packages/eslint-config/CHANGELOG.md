@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.3.5...@xip-online-applications/eslint-config@0.4.0) (2023-01-30)
+
+### Features
+
+- **package:** add share to eslint configs and ignore default export from airbnb-base ([97b8639](https://github.com/xip-online-applications/configs/commit/97b8639c4301c14f8821f6e1f04cb6e7e13aee12))
+
 ## [0.3.5](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.3.4...@xip-online-applications/eslint-config@0.3.5) (2023-01-30)
 
 ### Bug Fixes
