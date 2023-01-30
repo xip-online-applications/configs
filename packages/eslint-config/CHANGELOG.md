@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/eslint-config@0.3.0...@xip-online-applications/eslint-config@0.3.1) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** expose typescript file from eslint config ([c41e114](https://github.com/xip-online-applications/frontend/commit/c41e11475c9c8931315e0c6996590d7fba637975))
+
 # [0.3.0](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/eslint-config@0.2.0...@xip-online-applications/eslint-config@0.3.0) (2023-01-30)
 
 ### Features
