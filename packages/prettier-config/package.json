@@ -3,7 +3,7 @@
   "version": "0.3.2",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/xip-online-applications/frontend.git",
+    "url": "ssh://git@github.com/xip-online-applications/configs.git",
     "directory": "packages/prettier-config"
   },
   "publishConfig": {
