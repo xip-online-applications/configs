@@ -1,6 +1,7 @@
 {
   "name": "@xip-online-applications/eslint-config",
   "version": "0.3.4",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/xip-online-applications/configs.git",
