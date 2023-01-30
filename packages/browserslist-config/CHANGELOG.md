@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/browserslist-config@0.2.2...@xip-online-applications/browserslist-config@0.2.3) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** fix repository config in packages and add root license ([4d72891](https://github.com/xip-online-applications/configs/commit/4d728911fe22868ca0a5963569ce370a889a7f1a))
+
 ## [0.2.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/browserslist-config@0.2.1...@xip-online-applications/browserslist-config@0.2.2) (2023-01-30)
 
 **Note:** Version bump only for package @xip-online-applications/browserslist-config

@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.4](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.3.3...@xip-online-applications/eslint-config@0.3.4) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** fix repository config in packages and add root license ([4d72891](https://github.com/xip-online-applications/configs/commit/4d728911fe22868ca0a5963569ce370a889a7f1a))
+
 ## [0.3.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.3.2...@xip-online-applications/eslint-config@0.3.3) (2023-01-30)
 
 **Note:** Version bump only for package @xip-online-applications/eslint-config
