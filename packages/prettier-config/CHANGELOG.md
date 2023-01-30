@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/prettier-config@0.2.0...@xip-online-applications/prettier-config@0.3.0) (2023-01-30)
+
+### Features
+
+- **package:** prettier -> arrowParens 'always' ([e313234](https://github.com/xip-online-applications/frontend/commit/e313234ff696dd5553560c16c3c6f1b757247ecf))
+
 # [0.2.0](https://github.com/xip-online-applications/frontend/compare/@xip-online-applications/prettier-config@0.1.0...@xip-online-applications/prettier-config@0.2.0) (2023-01-30)
 
 ### Features
