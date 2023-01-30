@@ -1,6 +1,6 @@
 {
   "name": "@xip-online-applications/eslint-config",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/xip-online-applications/frontend.git",
