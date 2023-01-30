@@ -16,7 +16,7 @@
     "typescript.js",
     "README.md",
     "CHANGELOG.md",
-    "LICENSE.md"
+    "LICENSE"
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "latest",
