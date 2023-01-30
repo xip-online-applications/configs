@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.4.0...@xip-online-applications/eslint-config@0.4.1) (2023-01-30)
+
+### Bug Fixes
+
+- **package:** add index.js to files array in eslint package ([a68a6da](https://github.com/xip-online-applications/configs/commit/a68a6da616167957df7b5d009c9ca5f6872988b9))
+
 # [0.4.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.3.5...@xip-online-applications/eslint-config@0.4.0) (2023-01-30)
 
 ### Features
