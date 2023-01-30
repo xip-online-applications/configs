@@ -1,6 +1,6 @@
 {
   "name": "@xip-online-applications/browserslist-config",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/xip-online-applications/frontend.git",
