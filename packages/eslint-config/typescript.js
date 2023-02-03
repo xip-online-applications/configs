@@ -8,5 +8,6 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   rules: {
     ...sharedRules,
+    'no-shadow': 'off', // https://typescript-eslint.io/rules/no-shadow/#how-to-use
   },
 };
