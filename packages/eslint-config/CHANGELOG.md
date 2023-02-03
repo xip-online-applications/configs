@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.4.1...@xip-online-applications/eslint-config@0.4.2) (2023-02-03)
+
+### Bug Fixes
+
+- **package:** fix false positive by turning off "no-shadow" as typescript-eslint has a custom no-shadow rule ([a8abde1](https://github.com/xip-online-applications/configs/commit/a8abde1597be433e2a53bb3d17844568948001ab))
+
 ## [0.4.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.4.0...@xip-online-applications/eslint-config@0.4.1) (2023-01-30)
 
 ### Bug Fixes
