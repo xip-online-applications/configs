@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.5](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.4...@xip-online-applications/stylelint-config@0.4.5) (2023-02-06)
+
+### Bug Fixes
+
+- disable no-empty-space rule ([0d3f2f7](https://github.com/xip-online-applications/configs/commit/0d3f2f75bc5a07140d997c1d2b281ae579d93a07))
+
 ## [0.4.4](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.3...@xip-online-applications/stylelint-config@0.4.4) (2023-01-30)
 
 ### Bug Fixes
