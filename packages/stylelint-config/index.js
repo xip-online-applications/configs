@@ -17,7 +17,7 @@ module.exports = {
     'at-rule-no-unknown': null, // Disabled because of stylelint-scss // https://stylelint.io/user-guide/rules/at-rule-no-unknown/
     'font-weight-notation': 'named-where-possible', // https://stylelint.io/user-guide/rules/font-weight-notation/
     'shorthand-property-no-redundant-values': true, // https://stylelint.io/user-guide/rules/shorthand-property-no-redundant-values/
-    'no-empty-space': null, // https://stylelint.io/user-guide/rules/no-empty-source/
+    'no-empty-source': null, // https://stylelint.io/user-guide/rules/no-empty-source/
 
     /**
      * Quotes
