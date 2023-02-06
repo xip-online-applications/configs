@@ -14,10 +14,11 @@
   ],
   "prettier": "@xip-online-applications/prettier-config",
   "devDependencies": {
-    "@nrwl/eslint-plugin-nx": "15.4.4",
-    "@nrwl/js": "^15.4.4",
-    "@nrwl/linter": "15.4.4",
-    "@nrwl/nx-cloud": "latest",
+    "@nrwl/eslint-plugin-nx": "15.6.3",
+    "@nrwl/js": "15.6.3",
+    "@nrwl/linter": "15.6.3",
+    "@nrwl/nx-cloud": "15.0.3",
+    "@nrwl/nx-plugin": "15.6.3",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "@xip-online-applications/eslint-config": "file:./packages/eslint-config",
@@ -25,7 +26,7 @@
     "eslint": "~8.15.0",
     "eslint-config-prettier": "8.1.0",
     "lerna": "^6.4.0",
-    "nx": "15.4.4",
+    "nx": "15.6.3",
     "prettier": "^2.6.2"
   }
 }
