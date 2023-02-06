@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.6](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.5...@xip-online-applications/stylelint-config@0.4.6) (2023-02-06)
+
+### Bug Fixes
+
+- fix typo in no-empty-source Stylelint rule ([8caf224](https://github.com/xip-online-applications/configs/commit/8caf2244f673d9d3b47456cb4a4ad0d2cf2f2e96))
+
 ## [0.4.5](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.4...@xip-online-applications/stylelint-config@0.4.5) (2023-02-06)
 
 ### Bug Fixes
