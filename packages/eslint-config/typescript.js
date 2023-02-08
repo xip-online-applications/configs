@@ -8,6 +8,7 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   rules: {
     ...sharedRules,
+    'dot-notation': 'off', // https://www.typescriptlang.org/tsconfig#noPropertyAccessFromIndexSignature
     'no-shadow': 'off', // https://typescript-eslint.io/rules/no-shadow/#how-to-use
   },
 };
