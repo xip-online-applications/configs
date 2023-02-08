@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.4.2...@xip-online-applications/eslint-config@0.5.0) (2023-02-08)
+
+### Features
+
+- turn off dot notation in TypeScript eslint config ([03187c2](https://github.com/xip-online-applications/configs/commit/03187c2aec41e18ca29bd48c98042c3fc0d7ce8d))
+
 ## [0.4.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.4.1...@xip-online-applications/eslint-config@0.4.2) (2023-02-03)
 
 ### Bug Fixes
