@@ -5,12 +5,12 @@
 ### Install
 
 ```sh
-$ npm i -D @xip-online-applications/stylelint-config
+npm i -D stylelint @xip-online-applications/stylelint-config
 ```
 
 ### Add config
 
-Add the config to your `package.json`. Alternatively you can make a seperate config file.
+Add the config to your `package.json`. Alternatively you can make a separate config file.
 
 ```jsonc
 {
