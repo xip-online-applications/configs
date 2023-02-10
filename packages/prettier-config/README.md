@@ -7,7 +7,7 @@
 Install
 
 ```bash
-$ npm i -D @xip-online-applications/prettier-config
+npm i -D  prettier @xip-online-applications/prettier-config
 ```
 
 and add it to your `package.json`

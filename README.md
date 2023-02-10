@@ -2,11 +2,11 @@
 
 [![Publish](https://github.com/xip-online-applications/configs/actions/workflows/publish.yml/badge.svg)](https://github.com/xip-online-applications/configs/actions/workflows/publish.yml)
 
-This repository will house XIPs config files.
+This repository houses XIPs config files, all publicly available as [npm packages](https://www.npmjs.com/org/xip-online-applications).
 
 ## How to release
 
-These configs are released using [Lerna](https://lerna.js.org/) for versioning (changelog entry & package.json) and publishing. Published as [Github packages](https://github.com/features/packages) using Github Actions.
+These configs are released using [Lerna](https://lerna.js.org/) for versioning (changelog entry & package.json) and publishing. Published as npm packages using Github Actions.
 
 ### Conventional commits
 

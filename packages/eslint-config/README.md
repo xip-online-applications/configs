@@ -7,7 +7,7 @@ Company-wide [Eslint](https://eslint.org/) config for JS based projects.
 ### Install
 
 ```sh
-$ npm i -D @xip-online-applications/eslint-config
+npm i -D eslint @xip-online-applications/eslint-config
 ```
 
 ### Add config

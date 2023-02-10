@@ -7,7 +7,7 @@ Company-wide [Browserslist](https://github.com/browserslist/browserslist) config
 Install
 
 ```sh
-$ npm i -D @xip-online-applications/browserslist-config
+npm i -D @xip-online-applications/browserslist-config
 ```
 
 and add it to your `package.json`
