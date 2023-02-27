@@ -1,7 +1,3 @@
 {
-    "words": [
-      "nrwl",
-      "stylelint"
-    ]
-  }
-  
+  "words": ["nrwl", "stylelint", "commitlint"]
+}

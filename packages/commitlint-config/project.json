@@ -1,0 +1,26 @@
+{
+  "name": "commitlint-config",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/commitlint-config",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nrwl/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/packages/commitlint-config",
+        "main": "packages/commitlint-config/src/index.ts",
+        "tsConfig": "packages/commitlint-config/tsconfig.lib.json",
+        "assets": ["packages/commitlint-config/*.md"]
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["packages/commitlint-config/**/*.js"]
+      }
+    }
+  },
+  "tags": []
+}
