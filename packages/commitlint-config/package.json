@@ -1,0 +1,26 @@
+{
+  "name": "@xip-online-applications/commitlint-config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/xip-online-applications/configs.git",
+    "directory": "packages/commitlint-config"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "XIP Online Applications <info@x-ip.nl>",
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "latest",
+    "@commitlint/config-conventional": "latest"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4"
+  }
+}

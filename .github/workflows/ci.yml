@@ -32,3 +32,6 @@ jobs:
 
       - name: Run lint 🎗
         run: npm run lint
+
+      - name: Run commitlint 🎗
+        run: npm run commitlint
