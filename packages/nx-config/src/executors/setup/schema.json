@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "version": 2,
+  "cli": "nx",
+  "title": "Setup executor",
+  "description": "",
+  "type": "object",
+  "properties": {
+    "lintOnSave": {
+      "type": "boolean",
+      "description": "Enable running linters on file save."
+    }
+  },
+  "required": []
+}

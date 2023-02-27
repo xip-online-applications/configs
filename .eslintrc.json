@@ -23,12 +23,23 @@
     },
     {
       "files": ["*.ts", "*.tsx"],
-      "extends": ["plugin:@nrwl/nx/typescript", "@xip-online-applications/eslint-config"],
+      "extends": [
+        "plugin:@nrwl/nx/typescript",
+        "@xip-online-applications/eslint-config/typescript"
+      ],
       "rules": {}
     },
     {
       "files": ["*.js", "*.jsx"],
-      "extends": ["plugin:@nrwl/nx/javascript", "@xip-online-applications/eslint-config"],
+      "extends": [
+        "plugin:@nrwl/nx/javascript",
+        "@xip-online-applications/eslint-config"
+      ],
+      "rules": {}
+    },
+    {
+      "files": "*.json",
+      "parser": "jsonc-eslint-parser",
       "rules": {}
     }
   ]

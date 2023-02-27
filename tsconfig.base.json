@@ -17,6 +17,7 @@
     "paths": {
       "browserslist-config": ["packages/browserslist-config/index.js"],
       "eslint-config": ["packages/eslint-config/index.js"],
+      "nx-config": ["packages/nx-config/src/index.ts"],
       "prettier-config": ["packages/prettier-config/index.js"],
       "stylelint-config": ["packages/stylelint-config/index.js"]
     }
