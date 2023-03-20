@@ -18,6 +18,7 @@ module.exports = {
     'font-weight-notation': 'named-where-possible', // https://stylelint.io/user-guide/rules/font-weight-notation/
     'shorthand-property-no-redundant-values': true, // https://stylelint.io/user-guide/rules/shorthand-property-no-redundant-values/
     'no-empty-source': null, // https://stylelint.io/user-guide/rules/no-empty-source/
+    'import-notation': null, // https://stylelint.io/user-guide/rules/import-notation/
 
     /**
      * Quotes
