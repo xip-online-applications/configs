@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.7...@xip-online-applications/stylelint-config@0.5.0) (2023-03-20)
+
+### Features
+
+- disable import notation rule ([995b839](https://github.com/xip-online-applications/configs/commit/995b839e8a1c190244749690ca107c2f449c9ff8))
+
 ## [0.4.7](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.6...@xip-online-applications/stylelint-config@0.4.7) (2023-02-10)
 
 **Note:** Version bump only for package @xip-online-applications/stylelint-config
