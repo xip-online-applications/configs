@@ -67,7 +67,7 @@ module.exports = {
     'selector-max-compound-selectors': 3, // https://stylelint.io/user-guide/rules/selector-compound-selectors/
     'selector-max-combinators': 2, // https://stylelint.io/user-guide/rules/selector-max-combinators/
     'selector-max-id': 0, // https://stylelint.io/user-guide/rules/selector-max-id/
-    'selector-max-pseudo-class': 2, // https://stylelint.io/user-guide/rules/selector-max-pseudo-class/
+    'selector-max-pseudo-class': 4, // https://stylelint.io/user-guide/rules/selector-max-pseudo-class/
     'selector-max-type': 2, // https://stylelint.io/user-guide/rules/selector-max-type/
     'selector-max-universal': 1, // https://stylelint.io/user-guide/rules/selector-max-universal/
 
