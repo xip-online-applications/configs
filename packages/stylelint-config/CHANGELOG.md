@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.0...@xip-online-applications/stylelint-config@0.5.1) (2023-03-23)
+
+### Bug Fixes
+
+- bump max-pseudo-class from 2 to 4 in Stylelint config ([28dfba6](https://github.com/xip-online-applications/configs/commit/28dfba6fc790e38e62e0770f3031642e63aa26fd))
+
 # [0.5.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.4.7...@xip-online-applications/stylelint-config@0.5.0) (2023-03-20)
 
 ### Features
