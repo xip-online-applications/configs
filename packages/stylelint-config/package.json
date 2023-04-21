@@ -20,18 +20,18 @@
   ],
   "dependencies": {
     "stylelint-config-idiomatic-order": "latest",
-    "stylelint-config-prettier": "latest",
     "stylelint-config-standard-scss": "latest",
     "stylelint-declaration-block-no-ignored-properties": "latest",
     "stylelint-order": "latest",
-    "stylelint-prettier": "latest"
+    "stylelint-prettier": "latest",
+    "stylelint": "latest"
   },
   "peerDependencies": {
     "stylelint-config-idiomatic-order": "^9.0.0",
-    "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard-scss": "^6.1.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.6.0",
     "stylelint-order": "^6.0.1",
-    "stylelint-prettier": "^2.0.0"
+    "stylelint-prettier": "^2.0.0",
+    "stylelint": "15.5.0"
   }
 }
