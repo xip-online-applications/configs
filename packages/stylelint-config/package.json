@@ -1,6 +1,6 @@
 {
   "name": "@xip-online-applications/stylelint-config",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,19 +19,19 @@
     "LICENSE"
   ],
   "dependencies": {
+    "stylelint": "latest",
     "stylelint-config-idiomatic-order": "latest",
     "stylelint-config-standard-scss": "latest",
     "stylelint-declaration-block-no-ignored-properties": "latest",
     "stylelint-order": "latest",
-    "stylelint-prettier": "latest",
-    "stylelint": "latest"
+    "stylelint-prettier": "latest"
   },
   "peerDependencies": {
+    "stylelint": "15.5.0",
     "stylelint-config-idiomatic-order": "^9.0.0",
     "stylelint-config-standard-scss": "^6.1.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.6.0",
     "stylelint-order": "^6.0.1",
-    "stylelint-prettier": "^2.0.0",
-    "stylelint": "15.5.0"
+    "stylelint-prettier": "^2.0.0"
   }
 }
