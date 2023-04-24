@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.7](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.6...@xip-online-applications/stylelint-config@0.5.7) (2023-04-24)
+
+### Bug Fixes
+
+- add single quotes rule to enforce our own style ([4b7b048](https://github.com/xip-online-applications/configs/commit/4b7b04811c33b3f7f2dc604e7829b577b27dcab6))
+- revert back to dependencies ([7f19ff2](https://github.com/xip-online-applications/configs/commit/7f19ff2e5d27b65895d589f0e81cc4457bb6e42c))
+
 ## [0.5.6](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.5...@xip-online-applications/stylelint-config@0.5.6) (2023-04-24)
 
 **Note:** Version bump only for package @xip-online-applications/stylelint-config
