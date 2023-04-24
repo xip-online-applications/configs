@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/commitlint-config@0.1.1...@xip-online-applications/commitlint-config@0.1.2) (2023-04-24)
+
+### Bug Fixes
+
+- remove latest dependencies from all packages ([1e37b6a](https://github.com/xip-online-applications/configs/commit/1e37b6ae55a3598b6017cb6a8881a34afb8a2387))
+
 ## [0.1.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/commitlint-config@0.1.0...@xip-online-applications/commitlint-config@0.1.1) (2023-02-27)
 
 ### Bug Fixes

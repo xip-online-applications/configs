@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.5.1...@xip-online-applications/eslint-config@0.5.2) (2023-04-24)
+
+### Bug Fixes
+
+- remove latest dependencies from all packages ([1e37b6a](https://github.com/xip-online-applications/configs/commit/1e37b6ae55a3598b6017cb6a8881a34afb8a2387))
+
 ## [0.5.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.5.0...@xip-online-applications/eslint-config@0.5.1) (2023-02-10)
 
 **Note:** Version bump only for package @xip-online-applications/eslint-config
