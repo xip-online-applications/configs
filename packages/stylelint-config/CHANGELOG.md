@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.9](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.8...@xip-online-applications/stylelint-config@0.5.9) (2023-04-24)
+
+### Bug Fixes
+
+- remove Stylelint dependency and add it as peerDep ([0439d8a](https://github.com/xip-online-applications/configs/commit/0439d8ac76168fd3e9c0ce04c6fad85616e27caf))
+
 ## [0.5.8](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.7...@xip-online-applications/stylelint-config@0.5.8) (2023-04-24)
 
 **Note:** Version bump only for package @xip-online-applications/stylelint-config
