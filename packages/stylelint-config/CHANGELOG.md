@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.4](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.3...@xip-online-applications/stylelint-config@0.5.4) (2023-04-24)
+
+### Bug Fixes
+
+- remove latest dependencies from stylelint config ([c95a047](https://github.com/xip-online-applications/configs/commit/c95a047017fcccc063879566e8ec49c394abccef))
+
 ## [0.5.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.2...@xip-online-applications/stylelint-config@0.5.3) (2023-04-21)
 
 **Note:** Version bump only for package @xip-online-applications/stylelint-config
