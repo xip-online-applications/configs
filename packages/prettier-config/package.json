@@ -18,10 +18,7 @@
     "CHANGELOG.md",
     "LICENSE"
   ],
-  "dependencies": {
-    "prettier": "latest"
-  },
   "peerDependencies": {
-    "prettier": "^2.8.2"
+    "prettier": ">=2.8.2"
   }
 }

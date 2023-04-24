@@ -16,10 +16,6 @@
     "index.js"
   ],
   "dependencies": {
-    "@commitlint/cli": "latest",
-    "@commitlint/config-conventional": "latest"
-  },
-  "peerDependencies": {
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4"
   }
