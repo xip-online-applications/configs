@@ -18,7 +18,7 @@
     "CHANGELOG.md",
     "LICENSE"
   ],
-  "peerDependencies": {
+  "dependencies": {
     "stylelint": "14.16.1",
     "stylelint-config-idiomatic-order": "^9.0.0",
     "stylelint-config-standard-scss": "^6.1.0",
