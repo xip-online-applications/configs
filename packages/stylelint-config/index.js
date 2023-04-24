@@ -23,6 +23,7 @@ module.exports = {
     /**
      * Quotes
      */
+    'string-quotes': 'single', // https://stylelint.io/user-guide/rules/string-quotes/
     'font-family-name-quotes': 'always-where-recommended', // https://stylelint.io/user-guide/rules/font-family-name-quotes/
     'function-url-quotes': 'always', // https://stylelint.io/user-guide/rules/function-url-quotes/
     'selector-attribute-quotes': 'always', // https://stylelint.io/user-guide/rules/selector-attribute-quotes/
