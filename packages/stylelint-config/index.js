@@ -8,7 +8,7 @@ module.exports = {
     'stylelint-prettier', // https://github.com/prettier/stylelint-prettier
   ],
   rules: {
-    'order/properties-alphabetical-order': true,
+    'order/properties-alphabetical-order': true, // https://github.com/hudochenkov/stylelint-order/blob/master/rules/properties-alphabetical-order/README.md
 
     /**
      * Other
@@ -19,11 +19,11 @@ module.exports = {
     'shorthand-property-no-redundant-values': true, // https://stylelint.io/user-guide/rules/shorthand-property-no-redundant-values/
     'no-empty-source': null, // https://stylelint.io/user-guide/rules/no-empty-source/
     'import-notation': null, // https://stylelint.io/user-guide/rules/import-notation/
+    'declaration-property-value-no-unknown': true, // https://stylelint.io/user-guide/rules/declaration-property-value-no-unknown
 
     /**
      * Quotes
      */
-    'string-quotes': 'single', // https://stylelint.io/user-guide/rules/string-quotes/
     'font-family-name-quotes': 'always-where-recommended', // https://stylelint.io/user-guide/rules/font-family-name-quotes/
     'function-url-quotes': 'always', // https://stylelint.io/user-guide/rules/function-url-quotes/
     'selector-attribute-quotes': 'always', // https://stylelint.io/user-guide/rules/selector-attribute-quotes/
