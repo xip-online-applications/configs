@@ -1,6 +1,5 @@
 module.exports = {
   extends: [
-    'stylelint-config-idiomatic-order', // https://github.com/ream88/stylelint-config-idiomatic-order
     'stylelint-prettier/recommended', // https://github.com/prettier/stylelint-prettier
   ],
   plugins: [
@@ -9,6 +8,8 @@ module.exports = {
     'stylelint-prettier', // https://github.com/prettier/stylelint-prettier
   ],
   rules: {
+    'order/properties-alphabetical-order': true,
+
     /**
      * Other
      */
