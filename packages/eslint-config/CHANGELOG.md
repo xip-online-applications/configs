@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.5.2...@xip-online-applications/eslint-config@0.6.0) (2023-07-04)
+
+### Features
+
+- set "no-unused-vars" to error ([86b51a1](https://github.com/xip-online-applications/configs/commit/86b51a1ee7dbbfd9066487b21600d733313d113b))
+
 ## [0.5.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.5.1...@xip-online-applications/eslint-config@0.5.2) (2023-04-24)
 
 ### Bug Fixes
