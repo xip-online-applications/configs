@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.7.0...@xip-online-applications/stylelint-config@0.7.1) (2023-07-04)
+
+### Bug Fixes
+
+- remove deprecated "single-quotes" configuration ([2e5c785](https://github.com/xip-online-applications/configs/commit/2e5c785dd49525850380ba86963f9155857d2a6c))
+
 # [0.7.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.6.0...@xip-online-applications/stylelint-config@0.7.0) (2023-07-04)
 
 ### Features
