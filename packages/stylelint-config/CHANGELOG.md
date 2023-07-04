@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.6.0...@xip-online-applications/stylelint-config@0.7.0) (2023-07-04)
+
+### Features
+
+- ditch idiomatic order config and use packaged alphabetical order config ([e87f631](https://github.com/xip-online-applications/configs/commit/e87f6313f6f95a0beb82e907aae9feda0186516c))
+
 # [0.6.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.5.9...@xip-online-applications/stylelint-config@0.6.0) (2023-07-04)
 
 - feat!: make separate Stylelint config for SCSS ([53e6f28](https://github.com/xip-online-applications/configs/commit/53e6f28a5ef4299f05c0b0976d0de5961d89ce3f))
