@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.4.0...@xip-online-applications/prettier-config@0.5.0) (2023-07-21)
+
+### Features
+
+- add xml plugin to Prettier config ([f03fa44](https://github.com/xip-online-applications/configs/commit/f03fa44043b8fe17828155e2e300f628c0645619))
+
 # [0.4.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.3.6...@xip-online-applications/prettier-config@0.4.0) (2023-07-21)
 
 ### Bug Fixes
