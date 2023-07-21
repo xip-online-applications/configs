@@ -1,4 +1,5 @@
 module.exports = {
+  plugins: ['@prettier/plugin-xml'],
   arrowParens: 'always',
   bracketSpacing: true,
   endOfLine: 'lf',
