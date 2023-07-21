@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.3.6...@xip-online-applications/prettier-config@0.4.0) (2023-07-21)
+
+### Bug Fixes
+
+- fallback to Prettier v2.8.2 because NX is lagging behind ([fe50ecc](https://github.com/xip-online-applications/configs/commit/fe50eccef8e1cab4a75ecb40211f8dcfa46d4624))
+
+### Features
+
+- add prettier xml plugin to config peer deps ([bf4085a](https://github.com/xip-online-applications/configs/commit/bf4085a4fae83175a1621ad7855d89d0032b7b2e))
+- update peerDependencies Prettier to latest version (3.0.0) ([b2aaa94](https://github.com/xip-online-applications/configs/commit/b2aaa9403a193af522c1ce459a75d921aa778603))
+
 ## [0.3.6](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.3.5...@xip-online-applications/prettier-config@0.3.6) (2023-04-24)
 
 ### Bug Fixes

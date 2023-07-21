@@ -1,6 +1,6 @@
 {
   "name": "@xip-online-applications/prettier-config",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "LICENSE"
   ],
   "peerDependencies": {
-    "prettier": ">=2.8.2",
-    "@prettier/plugin-xml": "2.2.0"
+    "@prettier/plugin-xml": "2.2.0",
+    "prettier": ">=2.8.2"
   }
 }
