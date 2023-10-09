@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/commitlint-config@0.1.2...@xip-online-applications/commitlint-config@0.2.0) (2023-10-09)
+
+### Bug Fixes
+
+- fix Prettier code style ([eea96bc](https://github.com/xip-online-applications/configs/commit/eea96bca13aa050b432a5399702db5a50b290673))
+
+- chore!: update to Prettier 3.0 ([7bd21ea](https://github.com/xip-online-applications/configs/commit/7bd21ea544dc66f5b169d13d47b62130120b71ce))
+
+### BREAKING CHANGES
+
+- updated to Prettier 3.0 that will have a larger impact.
+
 ## [0.1.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/commitlint-config@0.1.1...@xip-online-applications/commitlint-config@0.1.2) (2023-04-24)
 
 ### Bug Fixes

@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.5.0...@xip-online-applications/prettier-config@0.6.0) (2023-10-09)
+
+### Bug Fixes
+
+- downgrade Prettier to v2.8.2 because of @nx/linter ([6f24d4a](https://github.com/xip-online-applications/configs/commit/6f24d4a0a2f0cb6ba84c7f961ff7fe34ae1aacfd))
+- fix Prettier code style ([eea96bc](https://github.com/xip-online-applications/configs/commit/eea96bca13aa050b432a5399702db5a50b290673))
+
+- chore!: update to Prettier 3.0 ([7bd21ea](https://github.com/xip-online-applications/configs/commit/7bd21ea544dc66f5b169d13d47b62130120b71ce))
+
+### BREAKING CHANGES
+
+- updated to Prettier 3.0 that will have a larger impact.
+
 # [0.5.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.4.0...@xip-online-applications/prettier-config@0.5.0) (2023-07-21)
 
 ### Features
