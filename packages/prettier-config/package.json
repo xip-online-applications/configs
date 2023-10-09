@@ -19,7 +19,6 @@
     "LICENSE"
   ],
   "peerDependencies": {
-    "@prettier/plugin-xml": "2.2.0",
-    "prettier": ">=2.8.2"
+    "prettier": ">=3.0.3"
   }
 }
