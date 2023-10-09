@@ -14,6 +14,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "prettier": "@xip-online-applications/prettier-config",
   "commitlint": {
     "extends": [
       "./packages/commitlint-config"
@@ -35,6 +36,6 @@
     "lerna": "^6.6.2",
     "nx": "16.10.0",
     "nx-cloud": "16.4.0",
-    "prettier": "^3.0.3"
+    "prettier": "^2.8.2"
   }
 }
