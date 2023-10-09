@@ -20,12 +20,12 @@
     "LICENSE"
   ],
   "dependencies": {
-    "stylelint-config-standard-scss": "^8.0.0",
+    "stylelint-config-standard-scss": "^11.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.7.0",
     "stylelint-order": "^6.0.3",
-    "stylelint-prettier": "^3.0.0"
+    "stylelint-prettier": "^4.0.2"
   },
   "peerDependencies": {
-    "stylelint": "^15.6.0"
+    "stylelint": "^15.10.3"
   }
 }
