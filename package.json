@@ -14,7 +14,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "prettier": "@xip-online-applications/prettier-config",
   "commitlint": {
     "extends": [
       "./packages/commitlint-config"
