@@ -23,19 +23,19 @@
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
-    "@nrwl/eslint-plugin-nx": "15.4.4",
-    "@nrwl/js": "^15.4.4",
-    "@nrwl/linter": "15.4.4",
-    "@nrwl/nx-cloud": "latest",
-    "@typescript-eslint/eslint-plugin": "^5.36.1",
-    "@typescript-eslint/parser": "^5.36.1",
+    "@typescript-eslint/eslint-plugin": "5.62.0",
+    "@typescript-eslint/parser": "5.62.0",
     "@xip-online-applications/eslint-config": "file:./packages/eslint-config",
     "@xip-online-applications/prettier-config": "file:./packages/prettier-config",
-    "eslint": "~8.15.0",
+    "eslint": "8.46.0",
     "eslint-config-prettier": "8.1.0",
     "husky": "^8.0.3",
     "lerna": "^6.4.0",
-    "nx": "15.4.4",
-    "prettier": "^2.8.2"
+    "nx": "16.10.0",
+    "prettier": "^2.8.2",
+    "nx-cloud": "16.4.0",
+    "@nx/js": "16.10.0",
+    "@nx/linter": "16.10.0",
+    "@nx/eslint-plugin": "16.10.0"
   }
 }

@@ -28,12 +28,12 @@ npm i -D eslint @xip-online-applications/eslint-config
 ```jsonc
 {
   "files": ["*.ts", "*.tsx"],
-  "extends": ["plugin:@nrwl/nx/typescript", "@xip-online-applications/eslint-config/typescript"],
+  "extends": ["plugin:@nx/typescript", "@xip-online-applications/eslint-config/typescript"],
   "rules": {}
 },
 {
   "files": ["*.js", "*.jsx"],
-  "extends": ["plugin:@nrwl/nx/javascript", "@xip-online-applications/eslint-config"],
+  "extends": ["plugin:@nx/javascript", "@xip-online-applications/eslint-config"],
   "rules": {}
 }
 ```

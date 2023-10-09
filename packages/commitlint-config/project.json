@@ -5,20 +5,29 @@
   "projectType": "library",
   "targets": {
     "build": {
-      "executor": "@nrwl/js:tsc",
-      "outputs": ["{options.outputPath}"],
+      "executor": "@nx/js:tsc",
+      "outputs": [
+        "{options.outputPath}"
+      ],
       "options": {
         "outputPath": "dist/packages/commitlint-config",
         "main": "packages/commitlint-config/src/index.ts",
         "tsConfig": "packages/commitlint-config/tsconfig.lib.json",
-        "assets": ["packages/commitlint-config/*.md"]
+        "assets": [
+          "packages/commitlint-config/*.md"
+        ],
+        "updateBuildableProjectDepsInPackageJson": true
       }
     },
     "lint": {
-      "executor": "@nrwl/linter:eslint",
-      "outputs": ["{options.outputFile}"],
+      "executor": "@nx/linter:eslint",
+      "outputs": [
+        "{options.outputFile}"
+      ],
       "options": {
-        "lintFilePatterns": ["packages/commitlint-config/**/*.js"]
+        "lintFilePatterns": [
+          "packages/commitlint-config/**/*.js"
+        ]
       }
     }
   },
