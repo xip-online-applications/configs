@@ -7,7 +7,7 @@
   },
   "scripts": {
     "commitlint": "commitlint --from=HEAD~1",
-    "lint": "nx workspace-lint && nx run-many --target=lint --all --parallel",
+    "lint": "nx run-many --target=lint --all --parallel",
     "prepare": "husky install"
   },
   "private": true,
