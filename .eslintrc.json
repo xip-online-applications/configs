@@ -23,12 +23,18 @@
     },
     {
       "files": ["*.ts", "*.tsx"],
-      "extends": ["plugin:@nx/typescript", "@xip-online-applications/eslint-config"],
+      "extends": [
+        "plugin:@nx/typescript",
+        "@xip-online-applications/eslint-config"
+      ],
       "rules": {}
     },
     {
       "files": ["*.js", "*.jsx"],
-      "extends": ["plugin:@nx/javascript", "@xip-online-applications/eslint-config"],
+      "extends": [
+        "plugin:@nx/javascript",
+        "@xip-online-applications/eslint-config"
+      ],
       "rules": {}
     }
   ]

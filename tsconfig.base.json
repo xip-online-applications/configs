@@ -10,33 +10,17 @@
     "importHelpers": true,
     "target": "es2015",
     "module": "esnext",
-    "lib": [
-      "es2017",
-      "dom"
-    ],
+    "lib": ["es2017", "dom"],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "browserslist-config": [
-        "packages/browserslist-config/index.js"
-      ],
-      "commitlint-config": [
-        "packages/commitlint-config/index.js"
-      ],
-      "eslint-config": [
-        "packages/eslint-config/index.js"
-      ],
-      "prettier-config": [
-        "packages/prettier-config/index.js"
-      ],
-      "stylelint-config": [
-        "packages/stylelint-config/index.js"
-      ]
+      "browserslist-config": ["packages/browserslist-config/index.js"],
+      "commitlint-config": ["packages/commitlint-config/index.js"],
+      "eslint-config": ["packages/eslint-config/index.js"],
+      "prettier-config": ["packages/prettier-config/index.js"],
+      "stylelint-config": ["packages/stylelint-config/index.js"]
     }
   },
-  "exclude": [
-    "node_modules",
-    "tmp"
-  ]
+  "exclude": ["node_modules", "tmp"]
 }
