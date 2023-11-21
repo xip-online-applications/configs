@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.7](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/browserslist-config@0.2.6...@xip-online-applications/browserslist-config@0.2.7) (2023-11-21)
+
+**Note:** Version bump only for package @xip-online-applications/browserslist-config
+
 ## [0.2.6](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/browserslist-config@0.2.5...@xip-online-applications/browserslist-config@0.2.6) (2023-10-09)
 
 ### Bug Fixes

@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.7.0...@xip-online-applications/eslint-config@0.7.1) (2023-11-21)
+
+**Note:** Version bump only for package @xip-online-applications/eslint-config
+
 # [0.7.0](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.6.1...@xip-online-applications/eslint-config@0.7.0) (2023-10-09)
 
 ### Bug Fixes
