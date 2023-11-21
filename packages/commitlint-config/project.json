@@ -11,12 +11,11 @@
         "outputPath": "dist/packages/commitlint-config",
         "main": "packages/commitlint-config/src/index.ts",
         "tsConfig": "packages/commitlint-config/tsconfig.lib.json",
-        "assets": ["packages/commitlint-config/*.md"],
-        "updateBuildableProjectDepsInPackageJson": true
+        "assets": ["packages/commitlint-config/*.md"]
       }
     },
     "lint": {
-      "executor": "@nx/linter:eslint",
+      "executor": "@nx/eslint:lint",
       "outputs": ["{options.outputFile}"],
       "options": {
         "lintFilePatterns": ["packages/commitlint-config/**/*.js"]
