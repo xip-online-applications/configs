@@ -16,10 +16,10 @@ npm i -D eslint @xip-online-applications/eslint-config
 {
   // ...
   "eslintConfig": {
-    "extends": "@xip-online-applications/eslint-config"
+    "extends": "@xip-online-applications/eslint-config",
     // TypeScript flavour
     // "extends": "@xip-online-applications/eslint-config/typescript"
-  }
+  },
 }
 ```
 
@@ -45,8 +45,8 @@ npm i -D eslint @xip-online-applications/eslint-config
   // ...
   "scripts": {
     // ...
-    "lint": "eslint --ext .js, YOUR_SOURCE_FOLDER"
+    "lint": "eslint --ext .js, YOUR_SOURCE_FOLDER",
     // ...
-  }
+  },
 }
 ```

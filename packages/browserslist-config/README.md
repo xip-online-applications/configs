@@ -15,6 +15,6 @@ and add it to your `package.json`
 ```jsonc
 {
   // ...
-  "browserslist": ["extends @xip-online-applications/browserslist-config"]
+  "browserslist": ["extends @xip-online-applications/browserslist-config"],
 }
 ```

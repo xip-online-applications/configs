@@ -16,8 +16,8 @@ Add the config to your `package.json`. Alternatively you can make a separate con
 {
   // ...
   "stylelint": {
-    "extends": "@xip-online-applications/stylelint-config"
-  }
+    "extends": "@xip-online-applications/stylelint-config",
+  },
 }
 ```
 
@@ -28,9 +28,9 @@ Add the config to your `package.json`. Alternatively you can make a separate con
   // ...
   "scripts": {
     // ...
-    "lint:style": "stylelint 'YOUR_SOURCE_FOLDER/**/*.{css,scss}'"
+    "lint:style": "stylelint 'YOUR_SOURCE_FOLDER/**/*.{css,scss}'",
     // ...
-  }
+  },
 }
 ```
 
