@@ -26,15 +26,22 @@
     "@nx/eslint": "22.4.2",
     "@nx/eslint-plugin": "22.4.2",
     "@nx/js": "22.4.2",
-    "@typescript-eslint/eslint-plugin": "8.54.0",
-    "@typescript-eslint/parser": "8.54.0",
+    "@typescript-eslint/eslint-plugin": "^8.54.0",
+    "@typescript-eslint/parser": "^8.54.0",
     "@xip-online-applications/eslint-config": "file:./packages/eslint-config",
     "@xip-online-applications/prettier-config": "file:./packages/prettier-config",
-    "eslint": "^9.39.2",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
     "husky": "^9.1.7",
     "lerna": "^9.0.3",
     "nx": "22.4.2",
-    "prettier": "^3.8.1"
+    "prettier": "^3.8.1",
+    "stylelint": "^17.0.0",
+    "stylelint-config-standard-scss": "^17.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^3.0.0",
+    "stylelint-order": "^7.0.1",
+    "stylelint-prettier": "^5.0.3"
   }
 }
