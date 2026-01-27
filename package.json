@@ -2,13 +2,15 @@
   "name": "configs",
   "license": "MIT",
   "engines": {
-    "npm": ">=10",
+    "npm": ">=11",
     "node": ">=22"
   },
   "scripts": {
     "commitlint": "commitlint --from=HEAD~1",
+    "format:check": "nx format:check --all  --parallel",
+    "format:fix": "nx format:write --all --parallel",
     "lint": "nx run-many --target=lint --all --parallel",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "private": true,
   "workspaces": [
@@ -21,21 +23,27 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.7.2",
-    "@commitlint/config-conventional": "^17.7.0",
-    "@nx/eslint": "21.3.11",
-    "@nx/eslint-plugin": "21.3.11",
-    "@nx/js": "21.3.11",
-    "@typescript-eslint/eslint-plugin": "^8.39.1",
-    "@typescript-eslint/parser": "^8.39.1",
+    "@commitlint/cli": "^20.3.1",
+    "@commitlint/config-conventional": "^20.3.1",
+    "@nx/eslint": "22.4.2",
+    "@nx/eslint-plugin": "22.4.2",
+    "@nx/js": "22.4.2",
+    "@typescript-eslint/eslint-plugin": "^8.54.0",
+    "@typescript-eslint/parser": "^8.54.0",
     "@xip-online-applications/eslint-config": "file:./packages/eslint-config",
     "@xip-online-applications/prettier-config": "file:./packages/prettier-config",
-    "eslint": "^8.57.1",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^10.1.8",
-    "husky": "^8.0.3",
-    "lerna": "^8.2.3",
-    "nx": "21.3.11",
-    "nx-cloud": "19.1.0",
-    "prettier": "^3.1.0"
+    "eslint-plugin-prettier": "^5.5.5",
+    "husky": "^9.1.7",
+    "lerna": "^9.0.3",
+    "nx": "22.4.2",
+    "prettier": "^3.8.1",
+    "stylelint": "^17.0.0",
+    "stylelint-config-standard-scss": "^17.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^3.0.0",
+    "stylelint-order": "^7.0.1",
+    "stylelint-prettier": "^5.0.3"
   }
 }

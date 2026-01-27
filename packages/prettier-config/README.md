@@ -15,6 +15,6 @@ and add it to your `package.json`
 ```jsonc
 {
   // ...
-  "prettier": "@xip-online-applications/prettier-config"
+  "prettier": "@xip-online-applications/prettier-config",
 }
 ```
