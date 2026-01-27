@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.7.2...@xip-online-applications/eslint-config@0.7.3) (2026-01-27)
+
+### Reverts
+
+- Revert "chore(release): [skip ci] publish" ([83a8e3f](https://github.com/xip-online-applications/configs/commit/83a8e3fdff206384a909b367d620ec91867464d3))
+
 ## [0.7.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/eslint-config@0.7.1...@xip-online-applications/eslint-config@0.7.2) (2025-08-14)
 
 **Note:** Version bump only for package @xip-online-applications/eslint-config

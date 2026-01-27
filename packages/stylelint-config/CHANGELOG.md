@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.8.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.8.2...@xip-online-applications/stylelint-config@0.8.3) (2026-01-27)
+
+### Reverts
+
+- Revert "chore(release): [skip ci] publish" ([83a8e3f](https://github.com/xip-online-applications/configs/commit/83a8e3fdff206384a909b367d620ec91867464d3))
+
 ## [0.8.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/stylelint-config@0.8.1...@xip-online-applications/stylelint-config@0.8.2) (2023-11-21)
 
 **Note:** Version bump only for package @xip-online-applications/stylelint-config
