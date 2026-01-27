@@ -2,7 +2,7 @@
   "name": "configs",
   "license": "MIT",
   "engines": {
-    "npm": ">=10",
+    "npm": ">=11",
     "node": ">=22"
   },
   "scripts": {
