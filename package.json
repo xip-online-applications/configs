@@ -3,7 +3,7 @@
   "license": "MIT",
   "engines": {
     "npm": ">=11",
-    "node": ">=22"
+    "node": ">=24"
   },
   "scripts": {
     "commitlint": "commitlint --from=HEAD~1",
