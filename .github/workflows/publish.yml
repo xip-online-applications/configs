@@ -32,7 +32,7 @@ jobs:
           node-version: ${{ matrix.node }}
 
       - name: Install dependencies ⏳
-        run: npm ci
+        run: npm ci --ignore-script
 
       - name: Publish packages 🚀
         env:
