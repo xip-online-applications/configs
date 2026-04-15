@@ -3,7 +3,10 @@
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "targetDefaults": {
     "lint": {
-      "inputs": ["default", "{workspaceRoot}/.eslintrc.json"],
+      "inputs": [
+        "default",
+        "{workspaceRoot}/.eslintrc.json"
+      ],
       "cache": true
     },
     "build": {
@@ -15,5 +18,6 @@
     "e2e": {
       "cache": true
     }
-  }
+  },
+  "analytics": false
 }
