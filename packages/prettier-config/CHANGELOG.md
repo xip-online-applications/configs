@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.3](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.6.2...@xip-online-applications/prettier-config@0.6.3) (2026-05-06)
+
+**Note:** Version bump only for package @xip-online-applications/prettier-config
+
 ## [0.6.2](https://github.com/xip-online-applications/configs/compare/@xip-online-applications/prettier-config@0.6.1...@xip-online-applications/prettier-config@0.6.2) (2026-01-27)
 
 ### Reverts
