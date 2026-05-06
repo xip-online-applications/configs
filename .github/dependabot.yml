@@ -1,6 +1,6 @@
 updates:
   - package-ecosystem: github-actions
-    directory: "/"
+    directory: '/'
     schedule:
       interval: monthly
     open-pull-requests-limit: 1
