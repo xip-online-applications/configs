@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/xip-online-applications/configs.git",
+    "url": "git+https://github.com/xip-online-applications/configs.git",
     "directory": "packages/browserslist-config"
   },
   "publishConfig": {
