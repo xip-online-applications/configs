@@ -4,13 +4,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/xip-online-applications/configs.git",
+    "url": "git+https://github.com/xip-online-applications/configs.git",
     "directory": "packages/eslint-config"
   },
   "publishConfig": {
     "access": "public"
   },
-  "author": "XIP Online Applications <info@x-ip.nl>",
+  "author": "XIP Online Applications <info@xip.nl>",
   "main": "./index.js",
   "files": [
     "shared",
